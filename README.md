@@ -1,4 +1,4 @@
-# Hi there, I'm [@dwhan89](https://github.com/dwhan89)
+# Hi there, I'm Dongwon(https://github.com/dwhan89)
 
 Welcome to my GitHub profile! I'm currently working as a Data Scientist at Inigo in London. In my free time, I'm spending time to learn about Reinforcement Learning and Decision Theory.
 
