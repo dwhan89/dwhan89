@@ -29,4 +29,4 @@ Currently at **Inigo**, working on ML systems for risk and pricing in Lloyd's of
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dwhan89)
 - 🌐 [Personal Site](https://dwhan89.github.io)
-- 📫 dwhan89@gmail.com
+
