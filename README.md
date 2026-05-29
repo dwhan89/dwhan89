@@ -1,4 +1,4 @@
-# Hello,  👋
+# Hello, I am Dongwon  👋
 
 I'm an Applied AI/ML engineer with a background in computational physics, probabilistic modeling, and simulation-based inference. I build and deploy ML systems that operate under uncertainty — from scientific inference pipelines to production models in high-stakes decision environments.
 
